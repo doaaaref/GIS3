@@ -1,0 +1,45 @@
+h1{
+    color: rgb(151, 48, 236);
+    text-align: center;
+}
+p{
+    font-size: large;
+    color: rgb(49, 26, 26);
+    font-size: larger;
+}
+
+#header{
+   
+    background-color: rgba(176, 75, 201, 0.486);
+   font-size:40px;
+   margin:30px;  
+   border: black;    
+   border-style: dotted;
+   padding: 10px;
+}
+*{
+    margin: 11px;	
+}
+
+#Geomatics{
+    background-color: rgba(151, 50, 190, 0.692);
+    text-align: center;
+}
+.sub{
+    background-color: rgba(88, 197, 240, 0.384);
+	display: inline-block;
+    border-style: inherit;
+	width: 30%; 
+}
+button{
+	background-color: rgba(131, 74, 224, 0.493)
+}
+
+abbr{
+	text-align: center;
+	color: blue;
+}
+.container{
+    background-color: rgba(200, 170, 201, 0.459);
+    border: solid;
+}
